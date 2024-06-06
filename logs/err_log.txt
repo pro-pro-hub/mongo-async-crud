@@ -1,0 +1,20 @@
+2024/04/11	22:23:44	c6fd2b4d-d349-429f-9430-24e5ad81d414	ReferenceError	info is not defined
+2024/04/11	22:42:50	fe4eba5f-a1f6-4fa1-8494-a0f2c4867cc6	Error	Expected a value of type string or object, instead got a value of type undefined
+2024/04/12	06:49:01	78d33c52-1921-403b-a464-073c031df764	TypeError	req.body.case.trim is not a function
+2024/04/12	11:22:27	a25c96d4-f7f1-4c1a-b57f-574373593d82	SyntaxError	Unexpected non-whitespace character after JSON at position 12
+2024/04/12	16:05:51	9af345ba-8dd5-4675-b73e-363ece2872e1	SyntaxError	Expected double-quoted property name in JSON at position 26
+2024/04/16	19:21:42	df8daf93-ddbc-41b2-8a97-582dcb92c202	SyntaxError	Expected ',' or '}' after property value in JSON at position 17
+2024/04/16	19:24:17	11ec4543-1749-4ede-9cec-45527422a876	SyntaxError	Expected double-quoted property name in JSON at position 38
+2024/05/07	21:34:59	c10f96d9-4161-44f8-8233-d347a31fc8fa	Error	Not allowed by cors
+2024/05/07	21:36:48	d809cf4f-00c0-4c30-9ab3-b81deaf7fd5b	Error	Not allowed by cors
+2024/05/07	21:38:52	a18188ca-dce9-4c26-9d40-06ed459e4393	Error	Not allowed by cors
+2024/05/07	21:39:28	f6e6144d-1f83-451c-9bd3-5298572be42d	Error	Not allowed by corshttp://127.0.0.1:5500
+2024/05/07	21:40:46	4743c617-acfb-4350-b50f-36947af65325	Error	Not allowed by cors
+2024/05/09	14:49:46	c9c8a964-bc09-4a89-bb39-6cf60504de35	Error	Not allowed by cors
+2024/05/09	14:51:17	01dc6553-707f-4eb5-a515-49a44367fbd9	Error	Not allowed by cors
+2024/06/04	09:33:57	a77d4fd4-5e6a-4b2b-bf54-4461a47a4321	ReferenceError	token is not defined
+2024/06/04	09:34:20	a5546eab-7f77-4d5a-bbc6-d015635ebd0d	ReferenceError	token is not defined
+2024/06/04	09:34:55	4ce5584c-6961-44a3-841b-af1d75b14156	ReferenceError	token is not defined
+2024/06/06	09:49:10	a591172d-c7bb-4310-8f7f-4a8bb2513ad0	ReferenceError	newId is not defined
+2024/06/06	09:59:17	8628a5a5-7333-44ad-9032-91356d8971ed	TypeError	Cannot read properties of null (reading 'toObject')
+2024/06/06	14:42:21	6f99e398-4701-43a8-aa8f-8ad3a08863d8	SyntaxError	Expected ',' or '}' after property value in JSON at position 39

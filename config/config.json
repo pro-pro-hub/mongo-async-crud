@@ -1,0 +1,14 @@
+{
+  "ALLOWED_ORIGINS": [
+    "http://localhost",
+    "http://127.0.0.1:5500",
+    "http://127.0.0.1",
+    "https://www.myweb.com",
+    "https://myweb.com"
+  ],
+  "USER_ROLES": {
+    "admin": 7130,
+    "editor": 1972,
+    "user": 1161
+  }
+}

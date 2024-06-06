@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign In</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <script src="/js/main.js" defer></script>
+  </head>
+  <body>
+    <section class="login">
+      <form>
+        <label for="username" class="offscreen">Enter username:</label>
+        <input
+          id="username"
+          type="text"
+          placeholder="Enter your username"
+          autocomplete="off"
+        />
+        <label for="password" class="offscreen">Enter password:</label>
+        <input
+          id="password"
+          type="password"
+          placeholder="Enter your password"
+          autocomplete="off"
+        />
+        <button type="submit">Login</button>
+      </form>
+      <p>Dont have an account? <a href="/signup">sign up</a></p>
+    </section>
+    <div>
+      <button data-to="./api/employees">Get Employees</button>
+      <button data-to="./logout">Logout</button>
+    </div>
+    <ul></ul>
+  </body>
+</html>
